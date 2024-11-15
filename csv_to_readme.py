@@ -39,5 +39,5 @@ def convert_csvs_to_readme(csv_files, output_file="README.md"):
     print(f"Markdown tables saved to {output_file}")
 
 # Example usage
-csv_files = ["7seg(LED).csv", "adc.csv", "Attenuator.csv"]  # Add your CSV file names here
+csv_files = ["file_name1.csv", "file_name2.csv", "file_name3.csv"]  # Add your CSV file names here
 convert_csvs_to_readme(csv_files)
