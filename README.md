@@ -1,3 +1,8 @@
+convert csv from altium lib file to readme.md
+
+this is sample :
+
+
 # 7SEG(LED)
 
 | LIBRARYREFERENCE              | FOOTPRINT1       | FOOTPRINT2      | FOOTPRINT3      | Unnamed: 4          |   ASSEMBLY | COMMENT        |   DESC |   DIST# | MANF                                 | MANF_P#                                                    | PARAM                     | PARAM2    | PRICE       | VALUE          | SHEETPART   | DESIGNATOR   | DESCRIPTION                          |
@@ -43,12 +48,12 @@
 | ADS7816            | SO_8              | http://www.chila.ir |        nan | =VALUE    |    nan |     nan | TI                | ADS7816U     | 12-bit, 200kHz                 | 7$                      | nan     | ADS7816   | *           | U?           | ADC, 12-bit, 200kHz                        |
 | LTC1293            | SO_16_W           | http://www.chila.ir |        nan | =VALUE    |    nan |     nan | Linear Technology | LTC1293DCSW  | nan                            | nan                     | nan     | LTC1293   | *           | U?           | ADC, 6-CH differential                     |
 | MAX187             | DIP_8             | http://www.chila.ir |        nan | =VALUE    |    nan |     nan | Maxim Integrated  | MAX187ACPA+  | nan                            | nan                     | nan     | MAX187    | *           | U?           | ADC, 12-bit, SERIAL, 75Ksps                |
-| TLA2024_QFN10      | QFN50_10_1520_RUG | http://www.chila.ir |        nan | =VALUE    |    nan |     nan | Texas Instruments | TLA2024IRUG  | 12-BIT, 3.3KSPS, I2C, -40~85°C | 2~5.5V                  | 2$      | TLA2024   | *           | U?           | ADC, 4-CH, 12-BIT, 3.3KSPS, I2C            |
+| TLA2024_QFN10      | QFN50_10_1520_RUG | http://www.chila.ir |        nan | =VALUE    |    nan |     nan | Texas Instruments | TLA2024IRUG  | 12-BIT, 3.3KSPS, I2C, -40~85Â°C | 2~5.5V                  | 2$      | TLA2024   | *           | U?           | ADC, 4-CH, 12-BIT, 3.3KSPS, I2C            |
 
 # ATTENUATOR
 
 | LIBRARYREFERENCE   | FOOTPRINT1    | Unnamed: 2          | COMMENT   | MANF           | MANF_P#     | PARAM                                       | PARAM2   | PRICE   | VALUE   |   SHEETPART | DESIGNATOR   | DESCRIPTION                                 |
 |:-------------------|:--------------|:--------------------|:----------|:---------------|:------------|:--------------------------------------------|:---------|:--------|:--------|------------:|:-------------|:--------------------------------------------|
-| DAT-31A_QFN20      | QFN50_20T     | http://www.chila.ir | =VALUE    | MINICIRCUITS   | DAT-31A-PP+ | 0~31dB, 1dB step, 0~4GHz, 50?, -40~85°C     | 3Vcc     | 1.5$    | DAT-31A |         nan | U?           | Att, LNA, 0~31dB, 1dB step, 0~4GHz, 50?     |
-| HMC470A_QFN16      | QFN50_16T_3X3 | http://www.chila.ir | =VALUE    | Analog Devices | HMC470ALP3E | 1~31dB, 0.3dB step, 0.1~3GHz, 50?, -40~85°C | 3~5Vcc   | 10.5$   | HMC470A |         nan | U?           | Att, LNA, 1~31dB, 0.3dB step, 0.1~3GHz, 50? |
+| DAT-31A_QFN20      | QFN50_20T     | http://www.chila.ir | =VALUE    | MINICIRCUITS   | DAT-31A-PP+ | 0~31dB, 1dB step, 0~4GHz, 50?, -40~85Â°C     | 3Vcc     | 1.5$    | DAT-31A |         nan | U?           | Att, LNA, 0~31dB, 1dB step, 0~4GHz, 50?     |
+| HMC470A_QFN16      | QFN50_16T_3X3 | http://www.chila.ir | =VALUE    | Analog Devices | HMC470ALP3E | 1~31dB, 0.3dB step, 0.1~3GHz, 50?, -40~85Â°C | 3~5Vcc   | 10.5$   | HMC470A |         nan | U?           | Att, LNA, 1~31dB, 0.3dB step, 0.1~3GHz, 50? |
 
